@@ -21,7 +21,7 @@ This project is a web-based application that visualizes various sorting algorith
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/sorting-algorithm-visualizer.git
+git clone https://github.com/a6hishekyadav/sorting-algorithm-visualizer.git
 cd sorting-algorithm-visualizer
 ```
 
